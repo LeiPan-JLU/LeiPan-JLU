@@ -5,19 +5,22 @@ Website: https://leipan-jlu.github.io
 
 **Research Interests**
 
-- Evolutionary Computation
-- Black-box and Hyperparameter Optimization
 - Machine Learning
-- Time-series Forecasting
 
-**Selected Projects**
+**Research & Projects**
 
-| Project | Focus | Links |
+| Project | Period | Focus |
 | --- | --- | --- |
-| Evolutionary Hyperparameter Optimization for MLP | GA, LDIW-PSO, DE and jDE on a 4-D MLP search space; 20 runs, 5-fold CV | [Code](https://github.com/LeiPan-JLU/evolutionary-hpo-mlp) |
-| LSTM–Transformer Weather Forecasting | 72h → 24h temperature forecasting on Jena Climate; validation-learned fusion, test MAE 1.714°C | [Code](https://github.com/LeiPan-JLU/lstm-transformer-weather-fusion) |
-<!-- Add future projects in the same format: | Project | One-line focus | [Code](URL) | -->
+| Physics-Informed and Interpretable Deep Learning for Bronze Inscription ("Yangwen") Recognition | 2026.04 – Present | Provincial-level project; morphological/topological features, two-stage fine-tuning, Gradio prototype |
+| [Evolutionary Hyperparameter Optimization for MLP](https://github.com/LeiPan-JLU/evolutionary-hpo-mlp) | 2026.11 | Fair benchmark of GA, LDIW-PSO, DE, and jDE on a mixed continuous–integer HPO space |
+| Multimodal Fusion End-to-End Autonomous Driving Decision Model | 2025.03 – 2025.05 | 19th "Challenge Cup" Special Track; VLA model, steering penalty, ONNX export |
+| [LSTM–Transformer Weather Forecasting](https://github.com/LeiPan-JLU/lstm-transformer-weather-fusion) | 2026.11 | 72h → 24h temperature forecasting; validation-learned fusion, test MAE 1.714°C |
+
+**Competitions**
+
+- **Second Prize (Jilin Province)**, Lanqiao Cup National Software & IT Professionals Competition (C++ Group), Apr. 2025.
+- Participant, 19th "Challenge Cup" National College Student Extracurricular Academic Science and Technology Contest (Special Track), Mar. – May 2025.
 
 **Contact**
 
-Website: https://leipan-jlu.github.io · Email: LeiPan-JLU@users.noreply.github.com · GitHub: https://github.com/LeiPan-JLU
+Website: https://leipan-jlu.github.io · Email: panlei9925@mails.jlu.edu.cn · GitHub: https://github.com/LeiPan-JLU
