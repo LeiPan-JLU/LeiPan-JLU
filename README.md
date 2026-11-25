@@ -11,6 +11,7 @@ Website: https://leipan-jlu.github.io
 
 | Project | Period | Focus |
 | --- | --- | --- |
+| [Density-Aware Adaptive Visual Prompting for Edge MLLMs](https://github.com/LeiPan-JLU/adaptive-visual-prompting-mllm) | 2026.11 | Training-free adaptive SoM on 400 CV-Bench 2D questions; fixed SoM 56.8%, adaptive 62.0%, grid 63.2% |
 | Physics-Informed and Interpretable Deep Learning for Bronze Inscription ("Yangwen") Recognition | 2026.04 – Present | Provincial-level project; morphological/topological features, two-stage fine-tuning, Gradio prototype |
 | [Evolutionary Hyperparameter Optimization for MLP](https://github.com/LeiPan-JLU/evolutionary-hpo-mlp) | 2026.11 | Fair benchmark of GA, LDIW-PSO, DE, and jDE on a mixed continuous–integer HPO space |
 | Multimodal Fusion End-to-End Autonomous Driving Decision Model | 2025.03 – 2025.05 | 19th "Challenge Cup" Special Track; VLA model, steering penalty, ONNX export |
